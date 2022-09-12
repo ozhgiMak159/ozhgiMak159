@@ -1,4 +1,4 @@
-# Maksim Ozhgibecov  <img src="https://user-images.githubusercontent.com/93679282/189708204-5d24d5d6-dd9c-40e3-a531-38c0b6737015.png" width="35" > 
+# Maksim Ozhgibecov  ![12](https://user-images.githubusercontent.com/93679282/189709430-35ce370c-0650-46e6-b1b5-dba532742002.png)
 
 ## Мои работы:
 Markdown | Less | Pretty 
@@ -16,5 +16,6 @@ Markdown | Less | Pretty
 Markdown | Less | Pretty 
 --- | --- | ---
 *Still* | `renders` | **nicely** 
+
 
 
