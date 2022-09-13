@@ -4,10 +4,7 @@
 AppName | Preview | Стек 
 --- | --- | --- |
 *Crypto Wallet* |<img src="https://user-images.githubusercontent.com/93679282/189844729-3d4f5965-e3a8-4e08-a692-ff40300bcf69.gif" width="200">| `SwiftUI, MVVM + Combien, CoreData.`
-
-AppName | Preview | Стек 
---- | --- | --- |
-*SpaceX* |     | `UIKit, MVP, URLSession.`
+*SpaceX* |<img src="https://user-images.githubusercontent.com/93679282/189870523-a5a3aed1-340c-4450-8b79-34999d896ca7.gif" width="200">| `UIKit, MVP, URLSession.`
 
 AppName | Preview | Стек 
 --- | --- | --- |
@@ -22,6 +19,8 @@ AppName | Preview | Стек
 
 ### My contacts 🙋🏻
 [![Telegram](https://img.shields.io/badge/-Telegram-383838?style=for-the-badge&logo=telegram&logoColor=A084CA)](https://t.me/ozhgimak)
+
+
 
 
 
