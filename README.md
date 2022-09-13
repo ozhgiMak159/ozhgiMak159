@@ -3,7 +3,7 @@
 ### My works 🔥
 AppName | Preview | Technology 
 --- | --- | --- |
-*Crypto Wallet* |<img src="https://user-images.githubusercontent.com/93679282/189844729-3d4f5965-e3a8-4e08-a692-ff40300bcf69.gif" width="170">| `SwiftUI, MVVM + Combien, CoreData.`
+*Crypto Wallet* |<img src="https://user-images.githubusercontent.com/93679282/189844729-3d4f5965-e3a8-4e08-a692-ff40300bcf69.gif" width="170">| `SwiftUI, MVVM + Combine, CoreData.`
 *SpaceX* |<img src="https://user-images.githubusercontent.com/93679282/189870523-a5a3aed1-340c-4450-8b79-34999d896ca7.gif" width="170">| `UIKit, MVP, URLSession.`
 *My Fitness* |<img src="https://user-images.githubusercontent.com/93679282/189873045-24b0a331-78fe-42b2-a988-45dfc50c3eb0.gif" width="170">     | `UIKit, MVC, URLSession, Realm.`
 *My Finance* |<img src="https://user-images.githubusercontent.com/93679282/189874950-707f77de-4010-44b1-976d-54a3606e7e1d.gif" width="170">     | `UIKit, MVC + Combine, URLSession, CoreData, UnitTest.`
