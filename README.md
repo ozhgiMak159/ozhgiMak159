@@ -1,9 +1,9 @@
 <img src="https://user-images.githubusercontent.com/93679282/189807745-25c810fc-0531-4eb2-8747-56b480ac2ac7.png" width="920"> 
 
 ### My works 🔥
-Markdown | Less | Pretty 
---- | --- | ---
-*Still* | `renders` | **nicely** 
+AppName | Preview | Стек 
+--- | --- | --- |
+*Crypto Wallet* |<img src="https://user-images.githubusercontent.com/93679282/189844729-3d4f5965-e3a8-4e08-a692-ff40300bcf69.gif" width="200">| `SwiftUI, MVVM + Combien, CoreData.`
 
 Markdown | Less | Pretty 
 --- | --- | ---
@@ -18,6 +18,9 @@ Markdown | Less | Pretty
 
 ### My contacts 🙋🏻
 [![Telegram](https://img.shields.io/badge/-Telegram-383838?style=for-the-badge&logo=telegram&logoColor=A084CA)](https://t.me/ozhgimak)
+
+
+
 
 
 
