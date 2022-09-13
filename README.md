@@ -1,4 +1,3 @@
-![Untitled](https://user-images.githubusercontent.com/93679282/189807745-25c810fc-0531-4eb2-8747-56b480ac2ac7.png)
 <img src="https://user-images.githubusercontent.com/93679282/189807745-25c810fc-0531-4eb2-8747-56b480ac2ac7.png" width="920"> 
 
 ### My works 🔥
