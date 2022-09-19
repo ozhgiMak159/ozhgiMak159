@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/93679282/189807745-25c810fc-0531-4eb2-8747-56b480ac2ac7.png" width="920"> 
+<img src="https://user-images.githubusercontent.com/93679282/191071616-9406621a-ad51-49dd-bfc8-c30afc3540c6.png" width="920"> 
 
 ### My works 🔥
 AppName | Preview | Technology 
@@ -13,8 +13,6 @@ AppName | Preview | Technology
 
 ### My contacts 🙋🏻
 [![Telegram](https://img.shields.io/badge/-Telegram-383838?style=for-the-badge&logo=telegram&logoColor=A084CA)](https://t.me/ozhgimak)
-
-
 
 
 
