@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/93679282/191071616-9406621a-ad51-49dd-bfc8-c30afc3540c6.png" width="920"> 
+<img src="https://user-images.githubusercontent.com/93679282/191475822-2edb3567-40e7-4083-b942-448ac2debc7f.png" width="920"> 
 
 ### My works 🔥
 AppName | Preview | Technology 
