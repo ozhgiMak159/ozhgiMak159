@@ -12,6 +12,7 @@ AppName | Preview | Technology
 AppName | Preview | Technology 
 --- | --- | --- |
 *SpaceX* |<img src="https://user-images.githubusercontent.com/93679282/189870523-a5a3aed1-340c-4450-8b79-34999d896ca7.gif" width="170">| `UIKit, MVP, URLSession.`
+*News* |<img src="https://user-images.githubusercontent.com/93679282/198864811-b891fc88-e196-4696-9f7c-bc5c5fcda90f.gif" width="170">| `UIKit, MVP + Router, URLSession, SOLID, Unit - Test`
 *My Fitness* |<img src="https://user-images.githubusercontent.com/93679282/189873045-24b0a331-78fe-42b2-a988-45dfc50c3eb0.gif" width="170">     | `UIKit, MVC, URlSession, API - Яндекс.Погода, Realm, SPM`
 *Events* |<img src="https://user-images.githubusercontent.com/93679282/195307077-791a1ab5-cabb-4727-8043-9844a1603f4b.gif" width="170">     | `UIKit, MVVM - C, CoreData, UnitTest.`
 
@@ -20,6 +21,7 @@ AppName | Preview | Technology
 
 ### My contacts 🙋🏻
 [![Telegram](https://img.shields.io/badge/-Telegram-383838?style=for-the-badge&logo=telegram&logoColor=A084CA)](https://t.me/ozhgimak)
+
 
 
 
